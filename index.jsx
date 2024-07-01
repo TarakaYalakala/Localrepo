@@ -3,7 +3,7 @@ import React from 'react'
 function index() {
   return (
     <div>
-      I am First JSX Syntax.
+      Happy Frontend.
     </div>
   )
 }
