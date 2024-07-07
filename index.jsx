@@ -5,6 +5,7 @@ function index() {
     <div>
       Happy Frontend.
       <p>This is the Home page</p>
+      <button>Click Here</button>
     </div>
   )
 }
