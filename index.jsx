@@ -4,7 +4,8 @@ function index() {
 
 
   const handelAlert = () => {
-    alert('Adding The Repo....')
+    alert('Adding The Repo....');
+    console.log("Good Request");
   }
 
   return (
