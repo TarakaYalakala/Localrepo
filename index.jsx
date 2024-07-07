@@ -6,6 +6,8 @@ function index() {
       Happy Frontend.
       <p>This is the Home page</p>
       <button>Drop File Here</button>
+      <button>Click Here</button>
+
     </div>
   )
 }
