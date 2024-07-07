@@ -4,6 +4,7 @@ function index() {
   return (
     <div>
       Happy Frontend.
+      <p>This is the Home page</p>
     </div>
   )
 }
