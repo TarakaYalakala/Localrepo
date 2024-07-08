@@ -7,6 +7,7 @@ function index() {
     alert('Adding The Repo....');
     console.log("Good Request");
     console.log(a+b);
+    return a+b;
   }
 
   return (
