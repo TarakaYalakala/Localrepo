@@ -3,9 +3,10 @@ import React from 'react'
 function index() {
 
 
-  const handelAlert = () => {
+  const handelAlert = (a,b) => {
     alert('Adding The Repo....');
     console.log("Good Request");
+    console.log(a+b);
   }
 
   return (
